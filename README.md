@@ -3,7 +3,7 @@ Team Based Project Grafika Komputer 3D World Ruang Kelas Sederhana
 
 Dosen Pengampu: Tekad Matulatan, S.Sos., S.Kom., M.Inf.Tech
 
-Kelompok: 14
+Kelompok: 14 <br>
 2201020097 Fauzan Hanif <br>
 2201020085 Safitri Wulandari <br>
 2201020019 Arinda Amalia Putri <br>
